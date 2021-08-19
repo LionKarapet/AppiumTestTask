@@ -1,6 +1,6 @@
 # AppiumTestTask
 
-### Set up and run
+### Set up and run(only on Mac)
 
 * **  **
 
