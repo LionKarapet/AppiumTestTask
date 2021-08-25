@@ -30,6 +30,7 @@ public class TestBase extends AppiumServerHandler {
         capabilities.setCapability(MobileCapabilityType.PLATFORM_VERSION, "10");
         capabilities.setCapability(MobileCapabilityType.PLATFORM_NAME, "Android");
         capabilities.setCapability(MobileCapabilityType.APP, "src/main/resources/hd-videobox_2.31.apk");
+        capabilities.setCapability("avd", "Pixel_2_API_29");//avd name on local machine
         driver = new AndroidDriver(appiumUrl, capabilities);
     }
 
