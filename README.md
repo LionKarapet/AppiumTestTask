@@ -77,5 +77,5 @@ _Easy setup process, to run an automated test on Android platform._
  
     * Run Android Emulator
 
-    * Open the project on "TestTaskGeniusee.java" and execute the class or seperate test method
+    * Open the project on "MainTest.java" and execute the class or seperate test method
         

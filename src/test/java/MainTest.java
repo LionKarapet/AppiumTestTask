@@ -5,7 +5,7 @@ import screens.*;
 
 import static org.testng.Assert.*;
 
-public class TestTaskGeniusee extends TestBase {
+public class MainTest extends TestBase {
 
     @BeforeMethod
     public void popupDismiss() {
